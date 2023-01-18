@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/yt5s.io - Don't Mean a Thing - Electro Swing - Royalty Free Music (256 kbps).mp3-d53bd90993af1bb861d4c021bacc2360.mp3str"
+
+[deps]
+
+source_file="res://Sounds/yt5s.io - Don't Mean a Thing - Electro Swing - Royalty Free Music (256 kbps).mp3"
+dest_files=[ "res://.import/yt5s.io - Don't Mean a Thing - Electro Swing - Royalty Free Music (256 kbps).mp3-d53bd90993af1bb861d4c021bacc2360.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
